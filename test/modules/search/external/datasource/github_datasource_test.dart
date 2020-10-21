@@ -5,7 +5,7 @@ import 'package:dio/dio.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mockito/mockito.dart';
 
-import 'package:Clean_Dart/modules/search/external/datasource/github_datasource_imp.dart';
+import 'package:Clean_Dart/modules/search/external/datasources/github_datasource_imp.dart';
 
 import '../../utils/github_result_json.dart';
 
