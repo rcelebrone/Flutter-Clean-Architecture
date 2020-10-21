@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Dart",
+            "type": "dart",
+            "request": "launch",
+            "program": "bin/main.dart"
+        },
+        {
+            "name": "Clean_Dart (Flutter Tests)",
+            "program": "test",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Clean_Dart (Flutter)",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
